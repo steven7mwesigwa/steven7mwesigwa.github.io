@@ -1,0 +1,63 @@
+.portfolio-modal{
+  font-size: 1em;
+}
+
+#hamburger, .capitalize {
+  text-transform: capitalize;
+}
+
+header, #about {
+  background-color: rebeccapurple;
+}
+
+#header-img {
+  border-radius: 50%;
+}
+
+#google-plus-bg-color {
+  background-color: #dd4b39;
+  /*font-weight: bold;*/
+  /*border-radius: 100%;*/
+}
+
+#facebook-bg-color {
+  background-color: #3B5998;
+}
+
+#twitter-bg-color {
+  background-color: #1DA1F2;
+}
+
+#github-bg-color {
+  background-color: #333333;
+}
+
+#linkedin-bg-color {
+  background-color: #007BB6;
+}
+
+.portfolio-caption {
+  color: black;
+}
+
+.modal-btn-to-project-code {
+  border-radius: 40px;
+  color: black;
+  background-color: #FFD343;
+  font-size: 1.438em;
+}
+
+.modal-close-btn {
+  border-radius: 40px;
+  color: ghostwhite;
+  font-size: 1.438em;
+}
+
+.portfolio-modal .close-modal {
+	
+	background-color:red;
+	
+}
+.portfolio-modal .close-modal:hover {
+  opacity: 0.5;
+}
