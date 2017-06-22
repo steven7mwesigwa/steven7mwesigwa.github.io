@@ -10,9 +10,15 @@ header, #about {
   background-color: rebeccapurple;
 }
 
-#header-img {
-  border-radius: 50%;
-}
+/*#header-img {*/
+  /*border-radius: 50%;*/
+  /*max-height: 50px;*/
+  /*max-width: 50px;*/
+  /*border: 6px solid deeppink;*/
+  /*margin: 0 auto 20px;*/
+      /*border: /;*/
+  
+/*}*/
 
 #google-plus-bg-color {
   background-color: #dd4b39;
