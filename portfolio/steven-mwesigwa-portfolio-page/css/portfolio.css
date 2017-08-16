@@ -80,6 +80,7 @@ body {
 
 #banner p {
   text-transform: lowercase;
+  
 }
 #banner p::first-letter {
   text-transform: uppercase;
