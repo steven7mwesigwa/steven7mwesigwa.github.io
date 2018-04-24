@@ -279,7 +279,25 @@ hr.star-light::after {
   max-width: 326px;
 /*   background-color: #303A3C; */
    min-height: 180px; 
-/* 	=============== */
-	
-	
+/* 	=============== */		
 }
+
+#portfolio .portfolio-item .portfolio-link .caption-certificates {
+/* background: #663399; */
+background: rgba(102, 51, 153, 0.6);
+/* 	position: absolute; */
+/* 	width: 81.5%; */
+/* min-width: 326px; */
+/* 	height: 100%; */
+opacity: 0;
+transition: all ease .5s;
+-webkit-transition: all ease .5s;
+-moz-transition: all ease .5s;
+	
+/* ========================== */
+max-height: 240px;
+max-width: 326px;
+min-height: 160px;
+/* =============== */
+}
+
