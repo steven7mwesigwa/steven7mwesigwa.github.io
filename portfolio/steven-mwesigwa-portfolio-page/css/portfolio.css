@@ -239,16 +239,16 @@ hr.star-light::after {
 	color: #fff;
 }
 
-/* .navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover { */
+.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
 /* 	background-color: #18BC9C; */
 /* 	color: #fff; */
-/* 	background: #663399; */
-/* 	background: rgba(102, 51, 153); */
-/* 	color: #FFFFFF; */
-/* 	border-color: #663399; */
-/* } */
+	background: #663399;
+	background: rgba(102, 51, 153);
+	color: #FFFFFF;
+	border-color: #663399;
+}
 
-.nav > li > a:focus, .nav > li > a:hover, .nav > li {
+.nav > li > a:focus, .nav > li > a:hover {
 	text-decoration: none;
 	background: #663399;
 	background: rgba(102, 51, 153, 0.8);
@@ -256,12 +256,12 @@ hr.star-light::after {
 }
 
 
-/* .nav > li > a:active {
+.nav > li > a:active {
 	text-decoration: none;
 	background: #663399;
 	background: rgba(102, 51, 153);
 	color: #FFFFFF;
-} */
+}
 
 /* .nav > li {
 
