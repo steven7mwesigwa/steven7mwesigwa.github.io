@@ -4,7 +4,7 @@ $(document).ready(function () {
 
 	$("#maincontent").on( "click", ()=> {
 		$("#hamburger").addClass("collapsed");
-		$("#hamburger").css({"aria-expanded": false});
+		$("#hamburger, #navbar-collapse-1").css({"aria-expanded": false});
 		
 // 		$("#navbar-collapse-1").css({"class": "navbar-collapse collapse"});
 		$("#navbar-collapse-1").removeClass("collapse in collapsing");
