@@ -238,3 +238,12 @@ hr.star-light::after {
 	background-color: #612999;
 	color: #fff;
 }
+
+.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
+/* 	background-color: #18BC9C; */
+/* 	color: #fff; */
+		background: #663399;
+	background: rgba(102, 51, 153);
+	color: #FFFFFF;
+	border-color: #663399;
+}
