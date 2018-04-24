@@ -3,8 +3,13 @@ $(document).ready(function () {
 	$("#year").html($year);
 
 	$("#maincontent").on( "click", ()=> {
-		$("#hamburger").css({"class": "navbar-toggle collapsed"});
-		$("#navbar-collapse-1").css({"class": "navbar-collapse collapse"});
+		$("#hamburger").addClass("collapsed");
+		$("#hamburger").css({"aria-expanded": false});
+		
+// 		$("#navbar-collapse-1").css({"class": "navbar-collapse collapse"});
+		$("#navbar-collapse-1").removeClass("collapse in collapsing");
+		$("#navbar-collapse-1").addClass("collapse");
+		
 // 		alert("yes");
 	
 	});	
