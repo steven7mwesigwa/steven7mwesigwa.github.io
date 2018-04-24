@@ -239,7 +239,7 @@ hr.star-light::after {
 	color: #fff;
 }
 
-.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
+.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle {
 /* 	background-color: #18BC9C; */
 /* 	color: #fff; */
 	background: #663399;
@@ -247,6 +247,10 @@ hr.star-light::after {
 	color: #FFFFFF;
 	border-color: #663399;
 }
+
+/* .navbar-custom {
+
+} */
 
 .nav > li > a:focus, .nav > li > a:hover {
 	text-decoration: none;
