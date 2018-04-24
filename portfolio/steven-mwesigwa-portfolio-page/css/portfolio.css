@@ -247,3 +247,9 @@ hr.star-light::after {
 	color: #FFFFFF;
 	border-color: #663399;
 }
+
+.nav > li > a:focus, .nav > li > a:hover {
+	text-decoration: none;
+	background-color: #663399;
+	color: #FFFFFF;
+}
