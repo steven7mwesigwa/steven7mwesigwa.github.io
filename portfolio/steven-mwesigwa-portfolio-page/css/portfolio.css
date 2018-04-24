@@ -191,3 +191,7 @@ a, a.active, a:active, a:focus, a:hover {
 	color: #fff;
 	/* margin-bottom: -300px; */
 }
+
+#scroll-top-chevron {
+	color: #663399;
+}
