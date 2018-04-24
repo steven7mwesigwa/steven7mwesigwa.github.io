@@ -200,3 +200,8 @@ a, a.active, a:active, a:focus, a:hover {
 /* #scroll-top-chevron a .btn-primary {
 	color: #663399;
 } */
+
+.port-footer span, .portfolio-footer span {
+color: aliceblue;
+/* z-index: 5; */
+}
