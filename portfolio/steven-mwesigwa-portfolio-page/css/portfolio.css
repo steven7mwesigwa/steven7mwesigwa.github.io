@@ -259,7 +259,7 @@ hr.star-light::after {
 .nav > li > a:active {
 	text-decoration: none;
 	background: #663399;
-	background: rgba(102, 51, 153;
+	background: rgba(102, 51, 153);
 	color: #FFFFFF;
 }
 
