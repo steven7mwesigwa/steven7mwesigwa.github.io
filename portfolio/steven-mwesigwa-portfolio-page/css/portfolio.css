@@ -239,17 +239,30 @@ hr.star-light::after {
 	color: #fff;
 }
 
-.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover {
+/* .navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover { */
 /* 	background-color: #18BC9C; */
 /* 	color: #fff; */
-		background: #663399;
-	background: rgba(102, 51, 153);
+/* 	background: #663399; */
+/* 	background: rgba(102, 51, 153); */
+/* 	color: #FFFFFF; */
+/* 	border-color: #663399; */
+/* } */
+
+.nav > li > a:focus, .nav > li > a:hover, .nav > li {
+	text-decoration: none;
+	background: #663399;
+	background: rgba(102, 51, 153, 0.8);
 	color: #FFFFFF;
-	border-color: #663399;
 }
 
-.nav > li > a:focus, .nav > li > a:hover {
+
+.nav > li > a:active {
 	text-decoration: none;
-	background-color: #663399;
+	background: #663399;
+	background: rgba(102, 51, 153;
 	color: #FFFFFF;
+}
+
+.nav > li {
+
 }
