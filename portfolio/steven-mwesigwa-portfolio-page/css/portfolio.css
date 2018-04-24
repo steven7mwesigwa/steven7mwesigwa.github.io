@@ -239,7 +239,7 @@ hr.star-light::after {
 	color: #fff;
 }
 
-.navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle {
+#hamburger, .navbar-custom .navbar-toggle:focus, .navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle{
 /* 	background-color: #18BC9C; */
 /* 	color: #fff; */
 	background: #663399;
