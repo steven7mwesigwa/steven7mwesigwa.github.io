@@ -182,7 +182,8 @@ header, #about {
 background: #663399;
 background: rgba(102, 51, 153, 0.6);
 position: absolute;
-width: 81.5%;
+/* width: 81.5%; */
+	min-width: 100%;
 height: 100%;
 opacity: 0;
 transition: all ease .5s;
