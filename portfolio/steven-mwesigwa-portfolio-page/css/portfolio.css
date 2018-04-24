@@ -183,7 +183,7 @@ background: #663399;
 background: rgba(102, 51, 153, 0.6);
 position: absolute;
 /* width: 81.5%; */
-	min-width: 100%;
+	min-width: 326px;
 height: 100%;
 opacity: 0;
 transition: all ease .5s;
@@ -197,7 +197,7 @@ a, a.active, a:active, a:focus, a:hover {
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
 	position: absolute;
-	width: 100%;
+/* 	width: 100%; */
 	max-width: 326px;
 	height: 20px;
 	font-size: 20px;
