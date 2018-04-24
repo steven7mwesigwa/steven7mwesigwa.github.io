@@ -2,7 +2,7 @@ $(document).ready(function () {
 	var $year = new Date().getFullYear(); 
 	$("#year").html($year);
 
-	$("#maincontent").on( "click", ()=> {
+	$("#maincontent, #porfolio, #about, #contact, footer").on( "click", ()=> {
 		$("#hamburger").addClass("collapsed");
 		$("#hamburger, #navbar-collapse-1").css({"aria-expanded": false});
 		
