@@ -178,18 +178,7 @@ header, #about {
   opacity: 0.5;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption {
-background: #663399;
-background: rgba(102, 51, 153, 0.6);
-position: absolute;
-/* width: 81.5%; */
-	min-width: 326px;
-height: 100%;
-opacity: 0;
-transition: all ease .5s;
--webkit-transition: all ease .5s;
--moz-transition: all ease .5s;
-}
+
 
 a, a.active, a:active, a:focus, a:hover {
 	color: #663399;
@@ -273,3 +262,15 @@ hr.star-light::after {
 /* .nav > li {
 
 } */
+#portfolio .portfolio-item .portfolio-link .caption {
+	/* background: #663399; */
+	background: rgba(102, 51, 153, 0.6);
+	position: absolute;
+	width: 81.5%;
+	/* min-width: 326px; */
+	height: 100%;
+	opacity: 0;
+	transition: all ease .5s;
+	-webkit-transition: all ease .5s;
+	-moz-transition: all ease .5s;
+}
