@@ -172,3 +172,7 @@ transition: all ease .5s;
 -webkit-transition: all ease .5s;
 -moz-transition: all ease .5s;
 }
+
+a, a.active, a:active, a:focus, a:hover {
+	color: #663399;
+}
