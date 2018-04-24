@@ -213,3 +213,12 @@ footer .footer-above {
 #copyright-link-footer {
 	color: #FFFFFF;
 }
+
+#success-btn-submit-form {
+	background: #663399;
+	background: rgba(102, 51, 153, 0.5);
+}
+#success-btn-submit-form:hover, #success-btn-submit-form:active {
+	background: #663399;
+	background: rgba(102, 51, 153);
+}
