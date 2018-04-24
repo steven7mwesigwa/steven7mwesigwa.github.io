@@ -167,6 +167,7 @@ header, #about {
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
+background: #663399;
 background: rgba(102, 51, 153, 0.6);
 position: absolute;
 width: 81.5%;
@@ -178,6 +179,7 @@ transition: all ease .5s;
 }
 
 a, a.active, a:active, a:focus, a:hover {
+	color: #663399;
 	color:  rgba(102, 51, 153, 0.6);
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
