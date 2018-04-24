@@ -60,7 +60,8 @@ position: relative;
 }
 */
 .port-footer span, .portfolio-footer span {
-  color: #999999;
+/*   color: #999999; */
+	color: aliceblue;
   /* z-index: 5; */
   
 }
