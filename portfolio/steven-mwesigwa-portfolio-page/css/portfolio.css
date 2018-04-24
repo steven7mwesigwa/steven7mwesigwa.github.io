@@ -28,12 +28,14 @@ body {
 .portfolio-cert-images {
   max-height: 240px;
   max-width: 326px;
-  background-color: #333333;
+/*   background-color: #333333; */
+  background-color: #663399;
   min-height: 160px;
   
 }
 .portfolio-footer, .port-footer {
-  background-color: #333333;
+/*   background-color: #333333; */
+  background-color: #663399;
   font-weight: bold;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
