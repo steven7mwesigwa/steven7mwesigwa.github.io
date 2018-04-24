@@ -180,3 +180,14 @@ transition: all ease .5s;
 a, a.active, a:active, a:focus, a:hover {
 	color: #663399;
 }
+#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+	position: absolute;
+	width: 100%;
+	height: 20px;
+	font-size: 20px;
+	text-align: center;
+	top: 30%;
+	/* margin-top: -12px; */
+	color: #fff;
+	/* margin-bottom: -300px; */
+}
