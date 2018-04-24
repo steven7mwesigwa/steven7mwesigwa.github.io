@@ -32,7 +32,7 @@ body {
   min-height: 160px;
   
 }
-.portfolio-footer {
+.portfolio-footer, .port-footer {
   background-color: #333333;
   font-weight: bold;
   border-bottom-left-radius: 5px;
@@ -44,15 +44,19 @@ body {
   max-width: 326px;
 
 }
+
+/*
 .port-footer {
   background-color: #333333;
   font-weight: bold;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   padding: 10px;
+position: relative; 
   min-height: 60px;
   max-width: 326px;
 }
+*/
 .port-footer span, .portfolio-footer span {
   color: #999999;
   /* z-index: 5; */
