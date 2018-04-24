@@ -149,9 +149,18 @@ header, #about {
 
 .modal-btn-to-project-code {
   border-radius: 40px;
-  color: black;
-  background-color: #FFD343;
+/*   color: black; */
+/*   background-color: #FFD343; */
+	background: #663399;
+	background: rgba(102, 51, 153, 0.8);
+	color: #FFFFFF;
   font-size: 1.438em;
+}
+
+.modal-btn-to-project-code:hover, .modal-btn-to-project-code:active {
+	background: #663399;
+	background: rgba(102, 51, 153);
+	color: #FFFFFF;
 }
 
 .modal-close-btn {
