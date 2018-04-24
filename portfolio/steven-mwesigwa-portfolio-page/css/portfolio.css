@@ -197,8 +197,9 @@ a, a.active, a:active, a:focus, a:hover {
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
 	position: absolute;
-/* 	width: 100%; */
-	max-width: 326px;
+/* 	width: 90%; */
+	margin-right: 20%;
+/* 	max-width: 326px; */
 	height: 20px;
 	font-size: 20px;
 	text-align: center;
