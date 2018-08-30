@@ -47,6 +47,10 @@ body {
 
 }
 
+ul>li {
+  background-color: red;
+}
+
 /*
 .port-footer {
   background-color: #333333;
