@@ -121,21 +121,21 @@ header, #about {
   max-width: 150px;
 }
 
-#google-plus-bg-color {
-  background-color: #dd4b39;
+/* #google-plus-bg-color { */
+  /* background-color: #dd4b39; */
   /*font-weight: bold;*/
   /*border-radius: 100%;*/
-}
+/* } */
 
-#freecodecamp-bg-color {
+/* #freecodecamp-bg-color {
   background-color: #006400;
-}
+} */
 
 #twitter-bg-color {
   background-color: #1DA1F2;
 }
 
-#github-bg-color {
+.github-bg-color {
   background-color: #333333;
 }
 
