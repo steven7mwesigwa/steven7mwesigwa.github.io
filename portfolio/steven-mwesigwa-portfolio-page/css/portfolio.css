@@ -291,5 +291,18 @@ hr.star-light::after {
 /* 	=============== */		
 }
 
-
-
+/* DOWNLOAD BUTTON DETAILS */
+#download-btn {
+  /* background-color: DodgerBlue; */
+  background-color: #FFFFFF;
+  border: none;
+  /* color: white; */
+  color: #2C3E50;
+  /* padding: 12px 30px; */
+  padding: 8px 8px;
+  cursor: pointer;
+  font-size: 20px;
+}
+#download-btn:hover {
+  background-color: #F4EFEF;
+}
