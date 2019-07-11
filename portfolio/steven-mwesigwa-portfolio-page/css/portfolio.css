@@ -19,6 +19,7 @@ body {
 .card-body a {
   display: block;
   margin: auto auto;
+  font-size: 4em;
 }
 .card-body p {
   font-size: 4em;
