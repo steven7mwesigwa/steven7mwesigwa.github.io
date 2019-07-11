@@ -4,6 +4,7 @@ body {
 
 .card {
   /* width: 18rem; */
+  width: 5em;
   margin: auto auto;
   border-radius: 25px;
   border: 2px solid #73AD21;
@@ -13,4 +14,12 @@ body {
 
 .card-body h4 {
   text-align: center;
+}
+
+.card-body a {
+  display: block;
+  margin: auto auto;
+}
+.card-body p {
+  font-size: 2em;
 }
