@@ -25,3 +25,8 @@ body {
 .card-body p {
   font-size: 3em;
 }
+.card img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
