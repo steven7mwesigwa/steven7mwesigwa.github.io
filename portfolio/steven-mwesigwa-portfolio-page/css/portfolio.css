@@ -13,11 +13,11 @@ body {
 
 .card-body h3 {
   text-align: center;
-  color: goldenrod;
+  color: purple;
 }
 
 .card-body a {
-  display: block;
+  /* display: block; */
   margin: auto auto;
   font-size: 3em;
 }
